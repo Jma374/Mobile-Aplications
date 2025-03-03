@@ -114,7 +114,10 @@ class _TemperatureConverterState extends State<TemperatureConverter> {
             SizedBox(height: 10.0),
             Slider(
                 value: sliderValue,
-                onChanged: (value) => {},
+                onChanged: (value) => {
+                      sliderValue = value,
+                      sliderColor = getColorForTemperature(value),
+                    },
                 activeColor: sliderColor,
                 min: 0,
                 max: 100.0)
