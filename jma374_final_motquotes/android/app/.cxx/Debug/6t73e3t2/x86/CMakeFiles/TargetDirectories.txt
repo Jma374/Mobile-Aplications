@@ -1,0 +1,2 @@
+/Users/lark/Downloads/jma374_final_motquotes/android/app/.cxx/Debug/6t73e3t2/x86/CMakeFiles/edit_cache.dir
+/Users/lark/Downloads/jma374_final_motquotes/android/app/.cxx/Debug/6t73e3t2/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/lark/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/lark/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/lark/Downloads/jma374_final_motquotes/android/app/.cxx/Debug/6t73e3t2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/lark/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/lark/Downloads/jma374_final_motquotes/android/app/.cxx/Debug/6t73e3t2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
